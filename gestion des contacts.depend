@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673262803 source:/home/linux/Desktop/programing/gestion des contacts/main.c
+	<stdio.h>
+	<stdlib.h>
+
